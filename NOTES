@@ -1,0 +1,31 @@
+VERSION CONTROL SOFTWARE
+
+==> SVN (Centralized version control)
+
+==> Git or Mercurial (Distributed version control)
+
+Distributed is more convenient to use for small files.
+
+MY GITHUB ACCOUNT: https://github.com/App974
+
+git init create ./git folder
+==> if you're not sure, don't play with that!!
+
+git status tells you about the status of your repo
+
+files can be untracked or tracked (modified or unmodified)
+
+git add adds things to the stage process
+
+then git commit
+
+git log give you the status of your folder
+
+On your github account create a new repo then follow the instruction which are:
+
+git remote add /path/github/account/repo_you_ve_just_created
+
+git push -u origin master
+( in the folder where you are currently working0
+
+
